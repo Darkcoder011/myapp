@@ -1,0 +1,64 @@
+Navigation Flow for All Pages
+Authentication Screens:
+
+Landing Page → Choose between Login or Signup.
+Login → Dashboard (on successful login).
+Signup → Dashboard (on successful account creation).
+Forgot Password → Email confirmation page → Back to Login.
+Main App Navigation (After Login/Signup):
+
+Dashboard (Home Page).
+Orders Page.
+Products Page.
+Customers Page.
+Advanced Reports Page.
+Settings Page.
+Navigation Flow:
+
+Dashboard:
+Revenue Overview → Opens detailed revenue trends.
+Sales Funnel → Opens Sales Funnel Analysis.
+Sales Breakdown → Opens Cost Analysis.
+Orders:
+View, Edit, or Delete Orders.
+Create New Order → Opens Order Creation Form.
+Products:
+View Products → Grid or List.
+Add Product → Opens Product Form.
+Import/Export → Opens modal to upload/download.
+Customers:
+View Customer Profiles → Opens detailed card.
+Add Customer → Opens Customer Form.
+Advanced Reports:
+Generate Report → Choose report type and time frame.
+Download Report → PDF or CSV export.
+Settings:
+User Preferences → Language, timezone, notifications.
+Integrations → Connect payment gateways.
+User Management → Add, edit, or delete team members.
+Bottom Navigation Bar Design
+The bottom navigation bar will enhance usability, offering easy access to core pages with an aesthetic glass effect and rounded side corners.
+
+Design Features:
+Glassmorphism Effect:
+
+Transparent background with blur effect (e.g., rgba(255, 255, 255, 0.2)).
+Subtle shadow and border for depth.
+Rounded Corners:
+
+Rounded edges only on the left and right corners for a modern touch.
+Navigation Items:
+
+Icons + Labels (simple and clean).
+Centered icons with a hover animation (scale and color change).
+Color Scheme:
+
+Primary Color: Soft blue gradient (for active state).
+Inactive Color: Light gray.
+Hover Color: White or slightly darker blue for contrast.
+Icon Structure:
+Dashboard → Home Icon.
+Orders → List Icon.
+Products → Box Icon.
+Customers → User Group Icon.
+Settings → Gear Icon.
